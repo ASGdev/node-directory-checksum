@@ -1,0 +1,17 @@
+{
+  "name": "cli-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "checksum": "^0.1.1",
+    "command-line-args": "^5.1.1",
+    "readdirp": "^3.5.0"
+  }
+}
