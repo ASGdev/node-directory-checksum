@@ -12,6 +12,7 @@
     "axios": "^0.21.0",
     "checksum": "^0.1.1",
     "command-line-args": "^5.1.1",
+    "filenamify": "^4.3.0",
     "readdirp": "^3.5.0"
   }
 }
